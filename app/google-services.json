@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "312554269993",
+    "project_id": "playontimesystem",
+    "storage_bucket": "playontimesystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312554269993:android:52f1d1d0200ff23a5c5b38",
+        "android_client_info": {
+          "package_name": "com.example.playontimesystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ2iycBaMYcle6NkGsaYc2ZI0D1PCYP4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
